@@ -1,0 +1,5 @@
+create a git repository
+3 python files in repository
+  rep 1- 4 different funtions
+  call in second files
+  
